@@ -1,0 +1,28 @@
+expect 预料，期望 v.
+status_code 响应码 n.
+case 案例 n.
+suite 套，一套 n.
+cursor 游标 n.----pymysql
+execute 执行 v.
+query 查询 v.
+modify 修改 v.
+assert 断言 n.
+param 参数 n.
+parameter
+schema 纲要 n.
+require 要求 v.
+required 必须
+instance 实例 n.
+service 服务层 n.
+protocol 协议 n.
+invoke 调用 v.---------Dubbo
+response field 响应域
+definition 定义 n.
+append 追加 v.
+handler 处理器
+regular expression 正则表达式
+reverse 反转 v.
+process 进程
+status 状态
+interface 网卡
+tail 尾巴
